@@ -13,7 +13,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 3. run_analysis.R -- R code
 
-run_analysis.R does the following:
+run_analysis.R does the following
+
 1. Merges the training and the test sets to create one data set.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
